@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @accabral
-- 👀 I’m interested in robotic process automation (RPA) and Artificial Intelligence (AI)
-- 🌱 I’m currently learning system architecture
-- 💞️ I’m looking to collaborate on disruptive projects involving technology
-- 📫 Contact me by email ana.cabral.baruk@gmail.com
+- 👋 Hi, I'm @accabral
+- 👀 I'm interested in robotic process automation (RPA), Artificial Intelligence (AI) and Big Data.
+- 🌱 I am currently system architecture, CTO at Startup Baruk and CTO at Startup Evah
+- 💞️ I seek to collaborate on disruptive projects involving technology
+- 📫 Contact me by email at ana.cabral.baruk@gmail.com
+- 👉 Access my linkedin at https://www.linkedin.com/in/anaclaudiacabral/
 
 <!---
 accabral/accabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
